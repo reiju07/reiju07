@@ -24,35 +24,22 @@
 </p>
 
 ---
-
 ## Tech Stack
-
-## Tech Stack
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,wordpress" />
-</p>
-
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### 🧪 Testing
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=playwright" />
-</p>
-
-### 🧰 Tools & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,jira" />
-</p>
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,dart" />
 </p>
+
+### 🌐 Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,flutter,wordpress" />
+</p>
+
+### 🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,jira,playwright" />
+</p>  
 
 ---
 
