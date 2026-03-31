@@ -16,7 +16,7 @@
 
 ## About Me
 
-<p align="center">
+<p>
   IT student with a strong interest in building modern and scalable web applications.<br>
   Focused on writing clean, maintainable code and continuously improving technical skills.<br>
   Exploring full-stack development and real-world system design.<br>
@@ -54,7 +54,7 @@
 
 ## Current Focus
 
-<p align="center">
+<p>
   Laravel and full-stack development<br>
   Backend API development using Node.js<br>
   UI development using Tailwind CSS<br>
