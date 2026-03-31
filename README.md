@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Dinnes</h1>
 
-<!--
-**reiju07/reiju07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  IT Student | Aspiring Full-Stack Developer | Problem Solver
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Currently studying Information Technology  
+- 💻 Passionate about building web applications  
+- 🌱 Continuously learning and improving my skills  
+- ⚡ Interested in full-stack development and system design  
+- 🤝 Open to collaboration and new opportunities  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- C++
+- Java
+- JavaScript
+
+### 🌐 Web Development
+- Laravel
+- Node.js
+- Tailwind CSS
+
+### 🧰 Tools & Technologies
+- Git & GitHub
+- VS Code
+- MySQL / Databases
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reiju07&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reiju07&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: dinnesaldav3@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: https://yourportfolio.com  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving problems and turning ideas into real-world applications 🚀
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250">
+</p>
+
+---
+
+⭐️ From [Your Name]
