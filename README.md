@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  IT Student | Full-Stack Developer | Problem Solver
+  IT Student | Software Developer | Intern at XOO
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 ## About Me
 
 <p>
-  IT student with a strong interest in building modern and scalable web applications.<br>
-  Focused on writing clean, maintainable code and continuously improving technical skills.<br>
-  Exploring full-stack development and real-world system design.<br>
-  Open to collaboration and professional opportunities.
+  IT student focused on building modern web applications.<br>
+  Writing clean, maintainable code while continuously improving skills.<br>
+  Exploring full-stack development and real-world systems.<br>
+  Open to collaboration and new opportunities.
 </p>
 
 ---
