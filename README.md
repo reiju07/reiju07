@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dinnes 👋</h1>
+<h1 align="center">Hi there, I'm Dinnes </h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
@@ -14,13 +14,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 IT Student passionate about software development  
-- 💻 Building modern web applications  
-- 🌱 Always learning new technologies  
-- ⚡ Interested in scalable systems and clean code  
-- 🤝 Open to collaboration and real-world projects  
+-  IT Student passionate about software development  
+-  Building modern web applications  
+-  Always learning new technologies  
+-  Interested in scalable systems and clean code  
+-  Open to collaboration and real-world projects  
 
 ---
 
