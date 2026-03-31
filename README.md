@@ -26,17 +26,17 @@
 ---
 ## Tech Stack
 
-### 💻 Languages
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,php,python,dart" />
 </p>
 
-### 🌐 Frameworks
+### Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,bootstrap,flutter,wordpress" />
 </p>
 
-### 🧰 Tools
+### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,postgres,jira,playwright" />
 </p>  
