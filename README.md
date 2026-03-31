@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dinnes </h1>
+<h1 align="center">Hi there, I'm Dinnes 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
@@ -14,25 +14,27 @@
 
 ---
 
-## About Me
+## 🚀 About Me
 
--  IT Student passionate about software development  
--  Building modern web applications  
--  Always learning new technologies  
--  Interested in scalable systems and clean code  
--  Open to collaboration and real-world projects  
+<p>
+  🎓 IT Student passionate about software development <br>
+  💻 Building modern web applications <br>
+  🌱 Always learning new technologies <br>
+  ⚡ Interested in scalable systems and clean code <br>
+  🤝 Open to collaboration and real-world projects
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,js" />
 </p>
 
 ### 🌐 Frameworks & Tools
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,git,github,vscode,mysql" />
 </p>
 
@@ -53,10 +55,12 @@
 
 ## 🧠 Current Focus
 
-- 🔧 Laravel & Full-Stack Development  
-- ⚙️ Backend APIs with Node.js  
-- 🎨 UI Design using Tailwind CSS  
-- 🧩 Building real-world projects  
+<p>
+  🔧 Laravel & Full-Stack Development <br>
+  ⚙️ Backend APIs with Node.js <br>
+  🎨 UI Design using Tailwind CSS <br>
+  🧩 Building real-world projects
+</p>
 
 ---
 
@@ -69,22 +73,6 @@
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## ⚡ Fun Fact
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300">
-</p>
-
-I enjoy solving complex problems and turning ideas into real applications 🚀
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </p>
 
 ---
