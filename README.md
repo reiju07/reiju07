@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm Dinnes 👋</h1>
+<h1 align="center">Hi there, I'm Dinnes</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
 </p>
 
 <p align="center">
-  <b>IT Student | Full-Stack Developer | Problem Solver</b>
+  IT Student | Full-Stack Developer | Problem Solver
 </p>
 
 <p align="center">
@@ -14,33 +14,32 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-<p>
-  🎓 IT Student passionate about software development <br>
-  💻 Building modern web applications <br>
-  🌱 Always learning new technologies <br>
-  ⚡ Interested in scalable systems and clean code <br>
-  🤝 Open to collaboration and real-world projects
+<p align="center">
+  IT student with a strong interest in building modern and scalable web applications.<br>
+  Focused on writing clean, maintainable code and continuously improving technical skills.<br>
+  Exploring full-stack development and real-world system design.<br>
+  Open to collaboration and professional opportunities.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
-<p align="left">
+### Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js" />
 </p>
 
-### 🌐 Frameworks & Tools
-<p align="left">
+### Frameworks & Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,nodejs,tailwind,git,github,vscode,mysql" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reiju07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
@@ -53,18 +52,18 @@
 
 ---
 
-## 🧠 Current Focus
+## Current Focus
 
-<p>
-  🔧 Laravel & Full-Stack Development <br>
-  ⚙️ Backend APIs with Node.js <br>
-  🎨 UI Design using Tailwind CSS <br>
-  🧩 Building real-world projects
+<p align="center">
+  Laravel and full-stack development<br>
+  Backend API development using Node.js<br>
+  UI development using Tailwind CSS<br>
+  Building practical, real-world applications
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:dinnesaldav3@gmail.com">
@@ -78,5 +77,5 @@
 ---
 
 <p align="center">
-  ⭐️ From <b>Dinnes</b>
+  From Dinnes
 </p>
